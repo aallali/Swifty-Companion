@@ -12,15 +12,15 @@ the API consumers.
 ### Screen Shots :
 
 <p>
-<img src="./docs/home.jpeg?raw=true" alt="home" width="150"/>
-<img src="./docs/p-amersoul-about.jpeg" alt="drawing" width="150"/>
-<img src="./docs/p-amersoul-projects.jpeg" alt="drawing" width="150"/>
-<img src="./docs/p-amersoul-skills.jpeg" alt="drawing" width="150"/> 
-<img src="./docs/saved.jpeg" alt="drawing" width="150"/>
-<img src="./docs/p-aallali-about-saved.jpeg" alt="drawing" width="150"/>
-<img src="./docs/p-eabdenna-projects.jpeg" alt="drawing" width="150"/>
-<img src="./docs/p-aaa.jpeg" alt="drawing" width="150"/>
-<img src="./docs/p-test.jpeg" alt="drawing" width="150"/>
+<img src="./docs/home.jpeg?raw=true" alt="home" width="180"/>
+<img src="./docs/p-amersoul-about.jpeg" alt="drawing" width="180"/>
+<img src="./docs/p-amersoul-projects.jpeg" alt="drawing" width="180"/>
+<img src="./docs/p-amersoul-skills.jpeg" alt="drawing" width="180"/> 
+<img src="./docs/saved.jpeg" alt="drawing" width="180"/>
+<img src="./docs/p-aallali-about-saved.jpeg" alt="drawing" width="180"/>
+<img src="./docs/p-eabdenna-projects.jpeg" alt="drawing" width="180"/>
+<img src="./docs/p-aaa.jpeg" alt="drawing" width="180"/>
+<img src="./docs/p-test.jpeg" alt="drawing" width="180"/>
 </p>
 ### test profiles to check them during your building process
 
