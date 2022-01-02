@@ -1,6 +1,6 @@
 # 42-Swifty-Companion2
 
-###Introduction
+### Introduction
 In this project you will discover how to developp a mobile application.
 
 The aim of the projet is to build an application that will retrieve the information of 42 student,
@@ -22,6 +22,7 @@ the API consumers.
 <img src="./docs/p-aaa.jpeg" alt="drawing" width="180"/>
 <img src="./docs/p-test.jpeg" alt="drawing" width="180"/>
 </p>
+
 ### test profiles to check them during your building process
 
 1. aaa
