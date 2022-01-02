@@ -11,6 +11,7 @@ the API consumers.
 
 ### Screen Shots :
 
+<p>
 <img src="./docs/home.jpeg?raw=true" alt="home" width="150"/>
 <img src="./docs/p-amersoul-about.jpeg" alt="drawing" width="150"/>
 <img src="./docs/p-amersoul-projects.jpeg" alt="drawing" width="150"/>
@@ -20,7 +21,7 @@ the API consumers.
 <img src="./docs/p-eabdenna-projects.jpeg" alt="drawing" width="150"/>
 <img src="./docs/p-aaa.jpeg" alt="drawing" width="150"/>
 <img src="./docs/p-test.jpeg" alt="drawing" width="150"/>
-
+</p>
 ### test profiles to check them during your building process
 
 1. aaa
